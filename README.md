@@ -3,6 +3,7 @@
 ![Project Screenshot](https://i.imgur.com/prx7UYF.png)
 
 
+
 This project is a simple weather dashboard built with TypeScript.
 
 ## Project Structure
@@ -21,7 +22,7 @@ weather_dashboard/
 ├── package.json # Dependency management file
 ├── package-lock.json # Exact versions of installed dependencies
 
-
+![Project Screenshot](https://i.imgur.com/vPilSXl.png)
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:

@@ -1,0 +1,18 @@
+{
+  "name": "weather_dashboard",
+  "version": "1.0.0",
+  "description": "A simple weather dashboard built with TypeScript.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && lite-server"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}

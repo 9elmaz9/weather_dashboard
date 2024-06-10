@@ -1,6 +1,7 @@
 # Weather Dashboard
 
-![Project Screenshot](https://files.oaiusercontent.com/file-UDEBRKjnHIDgtNkT1G1ToF5c?se=2024-06-10T21%3A31%3A02Z&sp=r&sv=2023-11-03&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc78c2189-11a1-43ba-9c28-07c20431ec0b.webp&sig=2DJqb25qgELlk4FqMwwHWK5Q/jcrcpBLipedknBqyeA%3D)
+![Project Screenshot](![image](https://github.com/9elmaz9/weather_dashboard/assets/132524901/06098cd7-19e6-4f80-95a6-24542e2c01e8)
+)
 
 This project is a simple weather dashboard built with TypeScript.
 

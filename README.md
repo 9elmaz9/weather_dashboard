@@ -1,6 +1,6 @@
 # Weather Dashboard
 
-![Project Screenshot](https://i.imgur.com/rt4yM9P.png)
+![Project Screenshot](https://i.imgur.com/prx7UYF.png)
 
 
 This project is a simple weather dashboard built with TypeScript.
